@@ -10,7 +10,9 @@ namespace companywage213
 
 
             employeecheck.checkattendance();
-            
+            empwage.checkwage();
+
+
         }
     }
 } 
