@@ -3,7 +3,7 @@ namespace companywage213
 {
     class program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             Console.WriteLine("welcome to company employye wage");
@@ -11,7 +11,7 @@ namespace companywage213
 
             employeecheck.checkattendance();
             empwage.checkwage();
-
+            parttime.isparttime();
 
         }
     }
