@@ -29,6 +29,8 @@ namespace companywage213
             empwagebuildarray.addcompanyempwage("reliance", 10, 4, 20);
             empwagebuildarray.computeempwage();
             Console.WriteLine("total wage for dmart company :" + empwagebuildarray.gettotalwage(0));
+            empwagebuilder empwagebuilder = new empwagebuilder();
+            
 
         }
     }
