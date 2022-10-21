@@ -14,6 +14,7 @@ namespace companywage213
             parttime.isparttime();
             switchcase.switchcases();
             wageformonth.monthwages();
+            condition.conditions();
 
         }
     }
