@@ -13,6 +13,7 @@ namespace companywage213
             empwage.checkwage();
             parttime.isparttime();
             switchcase.switchcases();
+            wageformonth.monthwages();
 
         }
     }
