@@ -15,6 +15,7 @@ namespace companywage213
             switchcase.switchcases();
             wageformonth.monthwages();
             condition.conditions();
+            computeempwage.calcomputewage();
 
         }
     }
