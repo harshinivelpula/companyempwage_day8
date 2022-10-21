@@ -12,6 +12,7 @@ namespace companywage213
             employeecheck.checkattendance();
             empwage.checkwage();
             parttime.isparttime();
+            switchcase.switchcases();
 
         }
     }
